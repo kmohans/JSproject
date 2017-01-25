@@ -1,1 +1,1 @@
-# ShopNX - Shopping Cart with AngularJS (eCommerce web application)
+# Shopping Cart with AngularJS (eCommerce web application)
